@@ -1,16 +1,17 @@
 body{
+    background-color: rgb(127, 197, 255);
     text-align: center;
 }
 .heading{
-    color: red;
+    color: rgb(255, 0, 251);
 }
 .counter{
     font-size: 1.5rem;
-    color: blue;
+    color: rgb(2, 23, 2);
 }
 .btn{
-    color: white;
-    background-color: blue;
+    color: rgb(12, 3, 3);
+    background-color: rgb(204, 255, 0);
     font-size: 1.5rem;
     border: 0px;
     border-radius: 0.5rem;
